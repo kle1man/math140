@@ -36,6 +36,12 @@ $$
 
 Application: For an object traveling in a straight line with position $f(t)$ at time $t$, its average velocity from $t_0$ to $t$ is $\frac{f(t)-f(t_0)}{t-t_0}$. Its velocity is $v(t_0) = \lim_{t \to t_0}\frac{f(t)-f(t_0)}{t-t_0}$.
 
+$$
+\begin{aligned}
+\\
+\end{aligned}
+$$
+
 ### Examples
 
 $\text{p.78}$
