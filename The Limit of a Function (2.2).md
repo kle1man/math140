@@ -5,23 +5,29 @@
 Limits to know: $\lim_{x \to a}c=c$, $\lim_{x \to a}x=a$, $\lim_{x \to a}(mx+b)=ma+b$, and $\lim_{x \to a}|x|=|a|$, where $c$, $m$, and $b$ are constants.
 
 The equation of the tangent line to $f$ at $(a, f(a))$ is 
+
 $$
 y-f(a)=m_a(x-a)
 $$
+
 where
+
 $$
 m_a=\lim_{x \to a}\frac{f(x)-f(a)}{x-a}
 $$
 
 If you ever forget the equation of a line, solve out the slope formula by multiplying the denominator on both sides
+
 $$
 m=\frac{y_2-y_1}{x_2-x_1}
 $$
 
 When gravity is the only force acting on an object, its height is given by 
+
 $$
 h(t)=-4.9t^2+v_0t+h_0
 $$
+
 where $t$ is in seconds, $h(t)$ is in meters, the initial velocity $v(0)=v_0$, and the initial height $h(0)=h_0$.
 
 ### Examples
