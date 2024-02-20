@@ -34,4 +34,4 @@ $\text{"Thrown the balls downward with a speed of 6 m/s" means that}$ $v_0=-6$
 $\text{So,}$ $h(t)=-4.9t^2+(-6)t+49$
 
 $\text{a)}$ $v(2)=\lim_{t \to 2}\frac{h(t)-h(2)}{t-2}=\lim_{t \to 2}\frac{-4.9t^2-6t+49-(-4.9(2)^2-6(2)+49)}{t-2}=\lim_{t \to 2}\frac{-4.9(t^2-2^2)-6(t-2)}{t-2}=\lim_{t \to 2}\frac{-4.9(t-2)(t+2)-t(t-2)}{t-2}=-4.9(2+2)-6=-25.6$
-$\text{The speed at time}$ $t_0$ $\text{is given by}$ $|v(t_0)|.$ $\text{So, the speed at time}$ $t_0=2$ $\text{is}$ $|-25.6|=25.6$ $\text{meters/second.}$ 
+$\text{The speed at time}$ $t_0$ $\text{is given by}$ $|v(t_0)|.$ $\text{So, the speed at time}$ $t_0=2$ $\text{is}$ $|-25.6|=25.6$ $\text{m/s.}$
