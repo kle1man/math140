@@ -33,6 +33,7 @@ If you ever forget the equation of a line, solve out the slope formula by multip
 $$
 m=\frac{y_2-y_1}{x_2-x_1}
 $$
+
 $$
 \begin{aligned}
 \\
