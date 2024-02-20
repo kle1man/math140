@@ -2,7 +2,9 @@
 date: 2024-01-24
 author: Alex Kleiman
 ---
-## Lecture Notes
+## Section 2.1: Tangent Lines and Velocity
+
+### Lecture Notes
 
 Given a function $f$, a secant line is a line through any two points $(a, f(a))$ and $(x, f(x))$. So given a fixed value $a$ and any other value $x$, the slope of the secant line through $(a,f(a))$ and $(x,f(x))$ is given by the difference quotient
 
@@ -22,19 +24,11 @@ Application: For an object traveling in a straight line with position $f(t)$ at 
 
 ### Examples
 
+p.78:
 $\text{p.78}$
-### $\text{ii) }\lim_{x \to -5}\frac{x^2+4x-5}{x+5}$
+
 $$
-\lim_{x \to -5}\frac{(x+5)(x-1)}{x+5}
-$$
-$$
-lim_{x \to -5} x-1
-$$
-$$
--5-1
-$$
-$$
--6
+\text{ii) }\lim_{x \to -5}\frac{x^2+4x-5}{x+5}=\lim_{x \to -5}\frac{(x+5)(x-1)}{x+5}=\lim_{x \to -5}x-1=-5-1=-6
 $$
 
 $$
