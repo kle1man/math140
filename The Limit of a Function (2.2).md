@@ -34,6 +34,12 @@ where $t$ is in seconds, $h(t)$ is in meters, the initial velocity $v(0)=v_0$, a
 
 $\text{7) }\lim_{x \to \frac{3}{2}}|x|=|\frac{3}{2}|=\frac{3}{2}$
 
+$$
+\begin{aligned}
+\\
+\end{aligned}
+$$
+
 $\text{20) } f(x)=-x^2+4x$, $(-1,-5)=(a,f(a))$
 
 $m_{-1}=\lim_{x \to -1}\frac{f(x)-f(-1)}{x-(-1)}=\lim_{x \to -1}\frac{-x^2+4x-(-5)}{x+1}=\lim_{x \to -1}\frac{-(x^2-4x-5)}{x+1}=\lim_{x \to -1}\frac{-(x+1)(x-5)}{x+1}=\lim_{x \to -1}-x+5=1+5=6$
@@ -44,11 +50,23 @@ $y-(-5)=6(x-(-1))$
 
 $y+5=6(x+1)$
 
+$$
+\begin{aligned}
+\\
+\end{aligned}
+$$
+
 $\text{25)}$ $f(t)=-16t^2+8t+54$, $t_0=2$, $v(t_0)=\lim_{t \to t_0}\frac{f(t)-f(t_0)}{t-t_0}$
 
 $v(2)=\lim_{t \to 2}\frac{-16t^2+8t+54-(16(2)^2+8(2)+54)}{t-2}=\lim_{t \to 2}\frac{-16t^2-(-16(2)^2)+8t-8(2)}{t-2}=\lim_{t \to 2}\frac{-16(t^2-2^2)+8(t-2)}{t-2}$
 
 $\text{Then, using the difference of squares formula}$ $(x^2-a^2)=(x-a)(x+a):$ $\lim_{t \to 2}\frac{-16(t-2)(t+2)+8(t-2)}{t-2}=\lim_{t \to 2}\frac{(t-2)[-16(t+2)+8]}{t-2}=-16(2+2)+8=-64+8=-56$
+
+$$
+\begin{aligned}
+\\
+\end{aligned}
+$$
 
 $\text{37) Refer to ex. 4 on p.85 of the textbook:}$
 
