@@ -10,7 +10,7 @@ $$
 y-f(a)=m_a(x-a)
 $$
 
-, where
+where
 
 $$
 m_a=\lim_{x \to a}\frac{f(x)-f(a)}{x-a}
@@ -28,7 +28,7 @@ $$
 h(t)=-4.9t^2+v_0t+h_0
 $$
 
-, where $t$ is in seconds, $h(t)$ is in meters, the initial velocity $v(0)=v_0$, and the initial height $h(0)=h_0$.
+where $t$ is in seconds, $h(t)$ is in meters, the initial velocity $v(0)=v_0$, and the initial height $h(0)=h_0$.
 
 ### Examples
 
