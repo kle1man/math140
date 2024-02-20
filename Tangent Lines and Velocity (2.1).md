@@ -8,6 +8,12 @@ $$
 \frac{f(x)-f(a)}{x-a}
 $$
 
+$$
+\begin{aligned}
+\\
+\end{aligned}
+$$
+
 If this difference quotient approaches a number as we allow $x$ to approach $a$, we say that the limit of $\frac{f(x)-f(a)}{x-a}$ is $L$ as $x$ approaches $a$ and denote this as
 
 $$
