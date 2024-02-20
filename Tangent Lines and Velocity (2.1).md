@@ -1,7 +1,3 @@
----
-date: 2024-01-24
-author: Alex Kleiman
----
 ## Section 2.1: Tangent Lines and Velocity
 
 ### Lecture Notes
@@ -20,12 +16,11 @@ $$
 
 The tangent line to $f$ at the point $(a,f(a))$ is the line through $(a,f(a))$ with the slope $L$
 
-Application: For an object traveling in a straight line with position $f(t)$ at time $t$, its average velocity from $t_0$ to $t$ is $\frac{f(t)-f(t_0)}{t-t_0}$. It's velocity is $v(t_0) = \lim_{t \to t_0}\frac{f(t)-f(t_0)}{t-t_0}$.
+Application: For an object traveling in a straight line with position $f(t)$ at time $t$, its average velocity from $t_0$ to $t$ is $\frac{f(t)-f(t_0)}{t-t_0}$. Its velocity is $v(t_0) = \lim_{t \to t_0}\frac{f(t)-f(t_0)}{t-t_0}$.
 
 ### Examples
 
 p.78:
-$\text{p.78}$
 
 $$
 \text{ii) }\lim_{x \to -5}\frac{x^2+4x-5}{x+5}=\lim_{x \to -5}\frac{(x+5)(x-1)}{x+5}=\lim_{x \to -5}x-1=-5-1=-6
