@@ -1,8 +1,8 @@
 ## MATH 140
 
-A repository of lecture notes for the University of Maryland's Calculus I course (MATH 140), taken in the Spring semester of 2024.
+A repository of lecture notes for the University of Maryland's Calculus I course (MATH 140), taken in the Spring semester of 2024 with Professor Kendall Williams.
 
-Notes are taken from a combination of Professor Kendall Williams' in-person lectures and live recordings.
+Notes are taken from a combination of Professor Williams' in-person lectures and live recordings.
 
 Examples are pulled by Professor Williams from the textbook (Calculus with Concepts in Calculus 6th ed., by Robert Ellis and Denny Gulick).
 
