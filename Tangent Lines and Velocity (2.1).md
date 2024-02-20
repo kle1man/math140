@@ -22,20 +22,10 @@ Application: For an object traveling in a straight line with position $f(t)$ at 
 
 p.78:
 
-$$
-\text{ii) }\lim_{x \to -5}\frac{x^2+4x-5}{x+5}=\lim_{x \to -5}\frac{(x+5)(x-1)}{x+5}=\lim_{x \to -5}x-1=-5-1=-6
-$$
+$\text{ii) }\lim_{x \to -5}\frac{x^2+4x-5}{x+5}=\lim_{x \to -5}\frac{(x+5)(x-1)}{x+5}=\lim_{x \to -5}x-1=-5-1=-6$
 
-$$
-\text{15) }\lim_{x \to 0}3(\sin^2{x}+\cos^2{x})=3(1)=3
-$$
-$$
-\text{Identity: ($\sin^2{x}+\cos^2{x}=1$)}
-$$
+$\text{15) }\lim_{x \to 0}3(\sin^2{x}+\cos^2{x})=3(1)=3$
+$\text{The above uses the identity }$$(\sin^2{x}+\cos^2{x}=1)$
 
-$$
-\text{17) }\lim_{x \to -1}-\frac{|x|}{x}=\lim_{x \to -1}-\frac{-x}{x}=\lim_{x \to -1}\frac{x}{x}=1
-$$
-$$
-\text{The above holds because the absolute value of $x$ is equal to $-(x)$ when $x$ is negative.}
-$$
+$\text{17) }\lim_{x \to -1}-\frac{|x|}{x}=\lim_{x \to -1}-\frac{-x}{x}=\lim_{x \to -1}\frac{x}{x}=1$
+$\text{The above holds because the absolute value of }$$x$$\text{ is equal to }$$-(x)$$\text{ when }$$x$$\text{ is negative.}$
