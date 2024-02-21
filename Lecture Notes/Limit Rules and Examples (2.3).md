@@ -2,12 +2,6 @@
 
 Suppose $\lim_{x \to a}f(x)=L_1$ and $\lim_{x \to a}g(x)=L_2$.
 
-$$
-\begin{flalign}
-\\
-\end{flalign}
-$$
-
 Then:
 
 $$
@@ -24,7 +18,7 @@ $$
 
 $$
 \begin{flalign}
-\text{iii) }\lim_{x \to a}[f(x)*g(x)]=L_1*L_2&&
+\text{iii) }\lim_{x \to a}f(x)*g(x)=L_1*L_2&&
 \end{flalign}
 $$
 
