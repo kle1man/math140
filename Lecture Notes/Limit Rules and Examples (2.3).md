@@ -1,6 +1,14 @@
 ## Section 2.3: Limit Rules and Examples
 
+### Lecture Notes
+
 Suppose $\lim_{x \to a}f(x)=L_1$ and $\lim_{x \to a}g(x)=L_2$. Then:
+
+$$
+\begin{aligned}
+\\
+\end{aligned}
+$$
 
 $$
 \begin{flalign}
@@ -16,7 +24,7 @@ $$
 
 $$
 \begin{flalign}
-\text{iii) }\lim_{x \to a}[f(x)*g(x)]=L_1*L_2 &&
+\text{iii) }\lim_{x \to a}[f(x)*g(x)]=L_1*L_2&&
 \end{flalign}
 $$
 
@@ -32,7 +40,7 @@ $$
 \end{aligned}
 $$
 
-Given the functions $f(x)=c_nx^h+c_{n-1}x^{n-1}+...+c_1x+c_0$, $f(x)=c^x$, $f(x)=\sin{x}$, $f(x)=\ln{x}\text{ if }x>0$, 
+Given the functions $f(x)=c_nx^h+c_{n-1}x^{n-1}+...+c_1x+c_0$, $f(x)=c^x$, $f(x)=\sin{x}$, $f(x)=\ln{x}\text{ if }x>0$:
 
 $$
 \lim_{x \to a}f(x)=f(a)\text{ for all }x\text{ in the domain of }f
