@@ -18,7 +18,7 @@ $$
 
 $$
 \begin{flalign}
-\text{iii) }\lim_{x \to a}f(x)*g(x)=L_1*L_2&&
+\text{iii) }\lim_{x \to a}[f(x)*g(x)]=L_1*L_2&&
 \end{flalign}
 $$
 
