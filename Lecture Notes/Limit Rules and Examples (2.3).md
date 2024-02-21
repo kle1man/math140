@@ -1,6 +1,6 @@
 ## Section 2.3: Limit Rules and Examples
 
-Suppose $\lim_{x \to a}f(x)=L_1$ and $\lim_{x \to a}g(x)=L_2$. Then
+Suppose $\lim_{x \to a}f(x)=L_1$ and $\lim_{x \to a}g(x)=L_2$. Then:
 
 $$
 \begin{flalign}
@@ -16,7 +16,7 @@ $$
 
 $$
 \begin{flalign}
-\text{iii) }\lim_{x \to a}[f(x)*g(x)]=L_1*L_2&&
+\text{iii) }\lim_{x \to a}[f(x)*g(x)]=L_1*L_2 &&
 \end{flalign}
 $$
 
