@@ -17,7 +17,7 @@ Given a function $f$, we can use the Newton-Raphson Method to approximate a solu
 
 Steps:
 
-1. Find values $a$ and $b$ such that $f(a)<0<f(b)$ or $f(b)<0<f(a)$.
+1. Find values $a$ and $b$ such that $f(a) < 0 < f(b)$ or $f(b) < 0 < f(a)$.
 2. Pick any value $c_1$ in $(a,b)$. If $f(c_1)=0$, you're done. If $f'(c_1)=0$, you must reselect your $c_1$.
 3. Find $g(c_1)$, where $g(x)=x-\frac{f(x)}{f'(x)}$.
 4. Repeat step (3) with the new value $c_2$ to get $c_3=g(c_2)$.
