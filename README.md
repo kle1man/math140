@@ -11,3 +11,7 @@ Examples are pulled by Professor Williams from the textbook (Calculus with Conce
 [Tangent Lines and Velocity (2.1)](https://github.com/kle1man/math140/blob/main/Lecture%20Notes/Tangent%20Lines%20and%20Velocity%20(2.1).md)
 
 [The Limit of a Function (2.2)](https://github.com/kle1man/math140/blob/main/Lecture%20Notes/The%20Limit%20of%20a%20Function%20(2.2).md)
+
+[Limit Rules and Examples (2.3)](https://github.com/kle1man/math140/blob/main/Lecture%20Notes/Limit%20Rules%20and%20Examples%20(2.3).md) (WIP)
+
+[Polynomial Approximations and the Newton-Raphson Method (3.8)](https://github.com/kle1man/math140/blob/main/Lecture%20Notes/Polynomial%20Approximations%20and%20the%20Newton-Raphson%20Method%20(3.8).md)
