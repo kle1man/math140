@@ -10,10 +10,6 @@ $$
 
 A higher derivative is found through the repeated process of taking the derivative of the derivative.
 
-$$
-\
-$$
-
 $f'(x)$ = the first derivative
 
 $f''(x)$ = the second derivative (found by taking the derivative of the function given by the first derivative)
