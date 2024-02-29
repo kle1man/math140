@@ -2,7 +2,7 @@
 
 ### Lecture Notes
 
-Each variable (distance, length, radius, height, volume, etc.) is a function of time. We'll use implicit differentiation to find an unknown rate of change. We'll use given rates of change, given values, and our own prior knowledge.
+Each variable (distance, length, radius, height, volume, etc.) is a function of time. We'll use implicit differentiation to find an unknown rate of change. We'll use given rates of change, given values, and our own prior knowledge (area formulas, volume formulas, etc.).
 
 Steps (from p. 182 of the textbook):
 
@@ -16,4 +16,4 @@ Steps (from p. 182 of the textbook):
 
 ### Examples
 
-(to be added when I'm not off an all-nighter)
+(WIP)
