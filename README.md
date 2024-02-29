@@ -16,6 +16,8 @@ Examples are pulled by Professor Williams from the textbook (Calculus with Conce
 
 [Higher Derivatives (3.5)](https://github.com/kle1man/math140/blob/main/Lecture%20Notes/Higher%20Derivatives%20(3.5).md) (examples TBA)
 
+[Implicit Differentiation (3.6)](https://github.com/kle1man/math140/blob/main/Lecture%20Notes/Implicit%20Differentiation%20(3.6).md) (examples TBA)
+
 [Related Rates (3.7)](https://github.com/kle1man/math140/blob/main/Lecture%20Notes/Related%20Rates%20(3.7).md) (examples TBA)
 
 [Polynomial Approximations and the Newton-Raphson Method (3.8)](https://github.com/kle1man/math140/blob/main/Lecture%20Notes/Polynomial%20Approximations%20and%20the%20Newton-Raphson%20Method%20(3.8).md)
