@@ -14,6 +14,10 @@ Method (from p. 182 of the textbook):
 
 4. Solve for the desired rate of change by using the given values of the variables and their rates.
 
+$$
+\
+$$
+
 ### Examples
 
 (WIP)

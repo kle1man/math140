@@ -16,6 +16,10 @@ Method:
 
 4. Solve algebraically for $\frac{dy}{dx}$.
 
+$$
+\
+$$
+
 ### Examples
 
 (WIP)
