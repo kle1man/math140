@@ -4,7 +4,15 @@
 
 *Professor Williams didn't give notes for this section, he just did examples because the topic is quite self-explanatory. Deriving the idea from his examples, I wrote up the following notes:*
 
+$$
+\
+$$
+
 A higher derivative is found through the repeated process of taking the derivative of the derivative.
+
+$$
+\
+$$
 
 $f'(x)$ = the first derivative
 
