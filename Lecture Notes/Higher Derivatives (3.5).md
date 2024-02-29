@@ -12,7 +12,7 @@ $f''(x)$ = the second derivative (found by taking the derivative of the function
 
 $f'''(x)$ = the third derivative (found by taking the derivative of the function given by the second derivative)
 
-Technically, this process continues (you could take a fifth derivative, assuming the original function allows it), but realistically you will never encounter anything more than a third derivative on a math problem (at least in this class).
+Technically, this process continues (you could take a fifth derivative, for example, assuming the original function allows it), but realistically you will never encounter anything more than a third derivative on a math problem (at least in this class).
 
 $$
 \
