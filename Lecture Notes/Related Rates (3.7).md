@@ -4,7 +4,7 @@
 
 Each variable (distance, length, radius, height, volume, etc.) is a function of time. We'll use implicit differentiation to find an unknown rate of change. We'll use given rates of change, given values, and our own prior knowledge (area formulas, volume formulas, etc.).
 
-Steps (from p. 182 of the textbook):
+Method (from p. 182 of the textbook):
 
 1. Identify and label the different variables. Include the variable whose rate is to be evaluated and those whose rates are given. It may be helpful to sketch a drawing at this stage.
 
