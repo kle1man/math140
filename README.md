@@ -25,3 +25,7 @@ Examples are pulled by Professor Williams from the textbook (Calculus with Conce
 [Related Rates (3.7)](https://github.com/kle1man/math140/blob/main/Lecture%20Notes/Related%20Rates%20(3.7).md) (examples TBA)
 
 [Polynomial Approximations and the Newton-Raphson Method (3.8)](https://github.com/kle1man/math140/blob/main/Lecture%20Notes/Polynomial%20Approximations%20and%20the%20Newton-Raphson%20Method%20(3.8).md)
+
+#### Unit 4: Applications of the Derivative
+
+[Maximum and Minimum Values (4.1)](https://github.com/kle1man/math140/blob/44ed71d60e4260c06e1c8a256398dedbde231db5/Materials/Maximum%20and%20Minimum%20Values%20(4.1).md)
