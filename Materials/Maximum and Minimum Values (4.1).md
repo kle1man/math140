@@ -2,7 +2,7 @@
 
 ### Lecture Notes
 
-**Note: work in progress, stopped at 23:14 in the lecture video**
+**Note: work in progress, stopped at 43:33 in the lecture video**
 
 $$
 \
