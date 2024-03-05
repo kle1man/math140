@@ -49,7 +49,7 @@ $$
 
 $f(x)=\frac{1}{e^{x}-1}$
 
-$f'(x)=\frac{0*(e^{x}-1)-e^{x}}{(e^{x}-1)^{2}}$
+$f'(x)=\frac{0*(e^{x}-1)-e^{x}}{(e^{x}-1)^{2}}=\frac{-e^{x}}{(e^{x}-1)^{2}}$
 
 $-e^{x}\neq 0\text{ and }e^{x}>0\text{, meaning that}-e^{x}<0$
 
