@@ -8,11 +8,15 @@ Examples are pulled by Professor Williams from the textbook (Calculus with Conce
 
 ### Table of Contents
 
+#### Unit 2: Limits and Continuity
+
 [Tangent Lines and Velocity (2.1)](https://github.com/kle1man/math140/blob/main/Lecture%20Notes/Tangent%20Lines%20and%20Velocity%20(2.1).md)
 
 [The Limit of a Function (2.2)](https://github.com/kle1man/math140/blob/main/Lecture%20Notes/The%20Limit%20of%20a%20Function%20(2.2).md)
 
 [Limit Rules and Examples (2.3)](https://github.com/kle1man/math140/blob/main/Lecture%20Notes/Limit%20Rules%20and%20Examples%20(2.3).md) (WIP)
+
+#### Unit 3: Derivatives
 
 [Higher Derivatives (3.5)](https://github.com/kle1man/math140/blob/main/Lecture%20Notes/Higher%20Derivatives%20(3.5).md) (examples TBA)
 
