@@ -2,12 +2,6 @@
 
 ### Lecture Notes
 
-**Note: work in progress, stopped at 43:33 in the lecture video**
-
-$$
-\
-$$
-
 Given a function $f$, $c$ is a *critical number* of $f$ if $f'(c)=0$ or $c$ is in the domain of $f$ but $f'(c)$ is undefined.
 
 $$
@@ -69,7 +63,7 @@ $$
 
 ##### p. 216, q. 23:
 
-$k(z)=\sqrt{1+z^{2}}$, $[-2,3]$
+$k(z)=\sqrt{1+z^{2}},[-2,3]$
 
 $\text{Finding critical numbers:}$
 
@@ -101,7 +95,7 @@ $$
 
 ##### p. 216, q. 32:
 
-$f(x)=e^{x}-e^{2x}$, $[0,1]$
+$f(x)=e^{x}-e^{2x},[0,1]$
 
 $\text{Finding critical numbers:}$
 
@@ -141,7 +135,7 @@ $$
 
 ##### p. 216, q. 29:
 
-$f(x)=\tan{\frac{x}{2}}$, $(\frac{-\pi}{2},\frac{\pi}{6})$
+$f(x)=\tan{\frac{x}{2}},(\frac{-\pi}{2},\frac{\pi}{6})$
 
 $\text{Finding critical numbers:}$
 
@@ -168,3 +162,45 @@ $\text{On }(\frac{-\pi}{2},\frac{\pi}{6}),f'(x)\text{ is either always positive 
 $\text{Test: }x=0, f'(0)=\frac{1}{2\cos^{2}{0}}=\frac{1}{2}>0\text{, so }f\text{ is always increasing on }(\frac{-\pi}{2},\frac{\pi}{6}).$
 
 $\text{No extreme values on }(\frac{-\pi}{2},\frac{\pi}{6})\text{ (answer)}$
+
+$$
+\
+$$
+
+##### p. 216, q. 22:
+
+$f(t)=t^{2}-\frac{4}{t},[1,3)$
+
+$\text{Finding critical numbers:}$
+
+$f(t)=t^{2}-4t^{-1}$
+
+$f'(t)=2t+4t^{-2}$
+
+$2t+\frac{4}{t^{2}}=0$
+
+$2t^{3}+4=0$
+
+$2t^{3}=-4$
+
+$t^{3}=-2$
+
+$t=2^{\frac{1}{3}}$
+
+$\text{Finding }f(c)\text{ for all critical numbers }c\text{:}$
+
+$c=2^{\frac{1}{3}}\text{ is not in the domain }[1,3)\text{, so there is nothing to do for this step.}$
+
+$\text{Finding }f(a)\text{ and }f(b)\text{:}$
+
+$f(1)=1-4=-3$
+
+$\text{Note: the reason for not evaluating for }f(3)\text{ is because the endpoint is not inclusive.}$
+
+$\text{Determine largest and smallest values, thus minimums and maximums:}$
+
+$\text{To test whether }f(a)=f(1)=-3\text{ is the minimum, we can plug a number in:}$
+
+$f(2)=4-2=2>-3\text{, meaning }f(1)\text{ is indeed the minimum.}$
+
+$\text{Minimum: }(1,-3)\text{ (answer)}$
