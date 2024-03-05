@@ -17,6 +17,10 @@ To find extreme values on $[a,b]$:
 3. Find $f(a)$ and $f(b)$.
 4. The largest of all values in (2) and (3) is a *maximum*, while the smallest of all values in (2) and (3) is a *minimum*.
 
+$$
+\
+$$
+
 ### Examples
 
 #### Critical Numbers
@@ -83,7 +87,7 @@ $\text{Finding }f(a)\text{ and }f(b)\text{:}$
 
 $k(-2)=\sqrt{1+4}=\sqrt{5}\text{ and }k(3)=\sqrt{1+9}=\sqrt{10}$
 
-$\text{Determine largest and smallest values, thus minimums and maximums:}$
+$\text{Determining largest and smallest values, thus minimums and maximums:}$
 
 $\sqrt{10}\text{ is a maximum (occurs at }x=3\text{) (answer)}$
 
@@ -123,7 +127,7 @@ $f(0)=e^{0}-e^{0}=0$
 
 $f(1)=e^{1}-e^{2}<0$
 
-$\text{Determine largest and smallest values, thus minimums and maximums:}$
+$\text{Determining largest and smallest values, thus minimums and maximums:}$
 
 $f(0)=0\text{ is a maximum (occurs at }x=0\text{) (answer)}$
 
@@ -155,7 +159,7 @@ $\text{Finding }f(a)\text{ and }f(b)\text{:}$
 
 $\text{The interval doesn't have any included endpoints, so there is nothing to do for this step as well.}$
 
-$\text{Determine largest and smallest values, thus minimums and maximums:}$
+$\text{Determining largest and smallest values, thus minimums and maximums:}$
 
 $\text{On }(\frac{-\pi}{2},\frac{\pi}{6}),f'(x)\text{ is either always positive of always negative.}$
 
@@ -197,7 +201,7 @@ $f(1)=1-4=-3$
 
 $\text{Note: the reason for not evaluating for }f(3)\text{ is because the endpoint is not inclusive.}$
 
-$\text{Determine largest and smallest values, thus minimums and maximums:}$
+$\text{Determining largest and smallest values, thus minimums and maximums:}$
 
 $\text{To test whether }f(a)=f(1)=-3\text{ is the minimum, we can plug a number in:}$
 
