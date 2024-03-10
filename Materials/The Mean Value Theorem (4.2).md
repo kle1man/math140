@@ -16,7 +16,7 @@ $$
 
 #### Rolle's Theorem
 
-Steps (given that $f$ is continuous on $[a,b]$ and differentiable on $(a,b)$ ):
+Steps (given that $f$ is continuous on $[a,b]$ and differentiable on $(a,b) $):
 1. Find the function values at the endpoints of the interval ($f(a)$ and $f(b)$). If $f(a)=f(b)$, Rolle's Theorem applies. If not, it doesn't.
 2. If $f(a)=f(b)$, find the derivative of the function, $f'(x)$, and set it equal to $0$ to find the critical points.
 3. If there's at least one critical point in the interval $(a,b)$, then there exists at least one point $c$ in $(a,b)$ where $f'(c)=0$, satisfying the conditions of Rolle's Theorem.
