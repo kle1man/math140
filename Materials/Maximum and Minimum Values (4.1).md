@@ -2,11 +2,15 @@
 
 ### Lecture Notes
 
+#### Critical Numbers
+
 Given a function $f$, $c$ is a *critical number* of $f$ if $f'(c)=0$ or $c$ is in the domain of $f$ but $f'(c)$ is undefined.
 
 $$
 \
 $$
+
+#### Extreme Values (Maximum and Minimum Values)
 
 A value $f(x)$ of a function $f$ is an *extreme value* if $f(x)$ is a maximum or minimum value of $f$.
 
