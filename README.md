@@ -29,3 +29,5 @@ Examples are pulled by Professor Williams from the textbook (Calculus with Conce
 #### Unit 4: Applications of the Derivative
 
 [Maximum and Minimum Values (4.1)](https://github.com/kle1man/math140/blob/44ed71d60e4260c06e1c8a256398dedbde231db5/Materials/Maximum%20and%20Minimum%20Values%20(4.1).md)
+
+[The Mean Value Theorem (4.2)](https://github.com/kle1man/math140/blob/b417001316920f937ec1d22b0e7dc618f44c32d1/Materials/The%20Mean%20Value%20Theorem%20(4.2).md)
