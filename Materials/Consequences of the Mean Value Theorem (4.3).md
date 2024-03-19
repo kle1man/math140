@@ -76,7 +76,7 @@ $$
 
 $\text{What functions have the derivative }-x^{2}$
 
-$f(x)=-(\frac{x^{3}}{3})+C$
+$f(x)=-(\frac{x^{3}}{3})+C\text{ (answer)}$
 
 $$
 \
@@ -148,7 +148,7 @@ $$
 
 $f(x)=4x^{3}-6x^{2}-9x$
 
-###### i) Find the critical numbers of $f$ in $I$.
+##### i) Find the critical numbers of $f$ in $I$.
 
 $f'(x)=12x^{2}-12x-9=3(4x^{2}-4x-3)=3(2x+1)(2x-3)$
 
@@ -158,11 +158,11 @@ $2x+1=0\text{ or }2x-3=0$
 
 $\text{Critical numbers: }x=\frac{-1}{2},x=\frac{3}{2}$
 
-###### ii) Draw a number line of the domain and only label the critical numbers (and holes in the domain).
+##### ii) Draw a number line of the domain and only label the critical numbers (and holes in the domain).
 
-<------$\frac{-1}{2}$------$\frac{3}{2}$------>
+<------ $\frac{-1}{2}$ ------ $\frac{3}{2}$ ------>
 
-###### iii) Pick a test value $c$ in each interval on the number line. Find $f'(c)$.
+##### iii) Pick a test value $c$ in each interval on the number line. Find $f'(c)$.
 
 $\text{Before }\frac{-1}{2},f'(-1).$
 
@@ -170,10 +170,12 @@ $\text{Between }\frac{-1}{2}\text{ and }\frac{3}{2},f'(0).$
 
 $\text{After }\frac{3}{2},f'(2)$
 
-###### iv) Determine whether each $f'(c)$ is greater than or less than 0. If greater, the function is increasing. If less, the function is decreasing.
+##### iv) Determine whether each $f'(c)$ is greater than or less than 0. If greater, the function is increasing. If less, the function is decreasing.
 
-$f'(-1)>0$
+$f'(-1)>0\text{ (increasing)}$
 
-$f'(0)<0$
+$f'(0)<0\text{ (decreasing)}$
 
-$f'(2)>0$
+$f'(2)>0\text{ (increasing)}$
+
+$\text{(the above is the answer)}$
