@@ -14,7 +14,7 @@ $$
 \
 $$
 
-#### Finding the intervals of a function increasing and decreasing
+#### Finding the Intervals of a Function Increasing and Decreasing
 
 Steps:
 1. Find the critical numbers of $f$ in $I$.
@@ -142,7 +142,7 @@ $$
 \
 $$
 
-#### Finding the intervals of a function increasing and decreasing
+#### Finding the Intervals of a Function Increasing and Decreasing
 
 ##### p. 230, q. 32:
 
