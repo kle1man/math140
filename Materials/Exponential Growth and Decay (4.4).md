@@ -14,6 +14,10 @@ where:
 - $k$ is the growth/decay constant
 - $t$ is time
 
+$$
+\
+$$
+
 Exponential growth/decay problems usually require two steps:
 1. Find $k$
 2. Use $k$ in the function $f(t)$
@@ -23,8 +27,6 @@ $$
 $$
 
 ### Examples
-
-#### Regular Exponential Growth/Decay
 
 ##### p. 238, q. 4:
 
@@ -89,8 +91,6 @@ $t=\frac{4\ln{\frac{1}{2}}}{\ln{\frac{1}{8}}}\text{ (answer)}$
 $$
 \
 $$
-
-#### Half-Life
 
 ##### p. 238, q. 10:
 
