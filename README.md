@@ -35,3 +35,5 @@ Examples are pulled by Professor Williams from the textbook (Calculus with Conce
 [The Consequences of the Mean Value Theorem (4.3)](https://github.com/kle1man/math140/blob/07725f173068c37a8fba9538842ac24f1ecec061/Materials/Consequences%20of%20the%20Mean%20Value%20Theorem%20(4.3).md)
 
 [Exponential Growth and Decay (4.4)](https://github.com/kle1man/math140/blob/8308c78f9d21a14050418adaf90b85f60f449715/Materials/Exponential%20Growth%20and%20Decay%20(4.4).md)
+
+[The First and Second Derivative Tests (4.5)](https://github.com/kle1man/math140/blob/f9fc72476ac12cbfba54503359d9892b7a121b85/Materials/The%20First%20and%20Second%20Derivative%20Tests%20(4.5).md)
