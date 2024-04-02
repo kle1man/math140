@@ -120,7 +120,7 @@ $x=0, x=-3, x=\frac{-3}{2}$
 
 $\text{Second derivative test:}$
 
-$f''(x)=[2(x+3)+2x](2x+3)+2x(x+3)2=(4x+6)(2x+3)+4x^{2}+12x$
+$f''(x)=(2(x+3)+2x)(2x+3)+2x(x+3)2=(4x+6)(2x+3)+4x^{2}+12x$
 
 $f''(0)=6*3>0\text{, meaning that there is a relative min. at }x=0\text{ (answer)}$
 
