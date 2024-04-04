@@ -100,6 +100,10 @@ $$
 
 $f(x)=x^{2}(x+3)^{2}$
 
+$$
+\
+$$
+
 $\text{Domain: all real numbers (as there is nothing that can be inputted into it to make it not exist)}$
 
 $X\text{-intercept (plug 0 in for }y\text{): }0=x^{2}(x+3)^{2}$
@@ -118,6 +122,10 @@ $2x(x+3)(2x+3)=0$
 
 $x=0, x=-3, x=\frac{-3}{2}$
 
+$$
+\
+$$
+
 $\text{Second derivative test:}$
 
 $f''(x)=(2(x+3)+2x)(2x+3)+2x(x+3)2=(4x+6)(2x+3)+4x^{2}+12x$
@@ -126,6 +134,36 @@ $f''(0)=6*3>0\text{, meaning that there is a relative min. at }x=0\text{ (answer
 
 $f''(-3)=-6*(-3)+36-36=18>0\text{, meaning that there is a relative min. at }x=-3\text{ (answer)}$
 
-$f''(\frac{-3}{2})=(4(\frac{-3}{2})+6)(2(\frac{-3}{2})+3)+4(\frac{9}{4})+12(\frac{-3}{2})=(-6+6)+9-18=-9<0\text{, meaning that there is a relative max. at }x=\frac{-3}{2}\text{ (answer)}$
+$f''(\frac{-3}{2})=(4(\frac{-3}{2})+6)(2(\frac{-3}{2})+3)+4(\frac{9}{4})+12(\frac{-3}{2})=(-6+6)+9-18=-9<0\text{, meaning that there is a relative max. at }x=\frac{-3}{2}$
 
 $\text{Note: Professor Williams recommends using the first derivative test instead.}$
+
+$\text{Remember that you have to plug the values back in to the original equation:}$
+
+$\text{Rel. min: }f(0)=0\text{ (answer)}$
+
+$\text{Rel. min: }f(-3)=9*0=0\text{ (answer)}$
+
+$\text{Rel. max: }f(\frac{-3}{2})=\frac{9}{4}(\frac{-3}{2}+\frac{6}{2})^{2}=\frac{9}{4}*\frac{9}{4}=\frac{81}{16}\text{ (answer)}$
+
+$$
+\
+$$
+
+$\text{To find the intervals of inc./dec.:}$
+
+<----- $-3$ ----- $\frac{-3}{2}$ ----- $0$ ----->
+
+$f'(-4)=(-)(-)(-)<0$
+
+$f'(-2)=(-)(+)(-)>0$
+
+$f'(-1)=(-)(+)(+)<0$
+
+$f'(1)=(+)(+)(+)>0$
+
+$$
+\
+$$
+
+$\text{Since you know the zeroes/undefined points (critical points) and concavity of the function, you can then graph the function.}$
